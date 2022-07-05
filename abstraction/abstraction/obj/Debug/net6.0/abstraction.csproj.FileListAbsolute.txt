@@ -1,0 +1,5 @@
+C:\Users\wwwth\source\repos\abstraction\abstraction\obj\Debug\net6.0\abstraction.csproj.AssemblyReference.cache
+C:\Users\wwwth\source\repos\abstraction\abstraction\obj\Debug\net6.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwth\source\repos\abstraction\abstraction\obj\Debug\net6.0\abstraction.AssemblyInfoInputs.cache
+C:\Users\wwwth\source\repos\abstraction\abstraction\obj\Debug\net6.0\abstraction.AssemblyInfo.cs
+C:\Users\wwwth\source\repos\abstraction\abstraction\obj\Debug\net6.0\abstraction.csproj.CoreCompileInputs.cache
